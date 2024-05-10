@@ -1,6 +1,8 @@
 # Real-Time LLM Crypto Price Converter
 Powered by CoinMarketCap API, LangChain, and GPT-3.5-turbo
 
+<img width="421" alt="Screenshot 2024-05-09 at 8 32 06 PM" src="https://github.com/jackforgothispassword/real-time-llm-crypto-converter/assets/136520620/69030d90-0838-4858-b582-aebfed055f8b">
+
 ## Breakdown:
 This script integrates a cryptocurrency conversion function into a LangChain-based conversational AI model. Here's a breakdown of the script's workflow:
 
