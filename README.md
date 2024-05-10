@@ -14,7 +14,8 @@ A crypto_converter tool is defined using a decorator. This tool handles the conv
 The tool is bound to a LangChain conversational AI model (ChatOpenAI), which allows the model to invoke this tool as part of its responses to queries.
 
 ### Query Processing:
-The script processes a predefined query about cryptocurrency conversion.
+The script processes a predefined query about cryptocurrency conversion. (This is where you choose what currency to convert. i.e. "Hey there what is 6 BTC worth in ETH?")
+Note you must define a base currency, a currency to convert, and an amount.
 
 ### Tool Invocation:
 The LangChain model invokes the crypto_converter tool based on the query, and the script processes the output, displaying the conversion result.
