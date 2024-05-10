@@ -1,8 +1,8 @@
 # Real-Time LLM Crypto Price Converter
+Powered by CoinMarketCap API, LangChain, and GPT-3.5-turbo
 
-### Powered by CoinMarketCap API, LangChain, and GPT-3.5-turbo
-
-## This script integrates a cryptocurrency conversion function into a LangChain-based conversational AI model. Here's a breakdown of the script's workflow:
+## Breakdown:
+This script integrates a cryptocurrency conversion function into a LangChain-based conversational AI model. Here's a breakdown of the script's workflow:
 
 ### Environment Setup:
 The script initializes by importing necessary libraries and setting up the environment.
